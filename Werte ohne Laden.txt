@@ -1,0 +1,81 @@
+alw: 1
+acu: 6
+adi:
+dwo:
+sse: 202259
+ccwSsid: Praxis fuer Nuklearmedizin
+rssi: -46
+ama: 16
+amp: 6 -> Eingestellte Ladeleistung
+fna: go-eCharger_202259
+car: 1
+err: 0
+cbl: 32
+cdiType: 1
+cdiValue: 5485558 --> Ladedauer, wenn 1.
+lccfi: 3012204584
+lccfc: 3095984820
+lcctc: 3094350872
+tma0: 24
+tma1: 18.5
+nrgUL1: 231.88
+nrgUL2: 229.4
+nrgUL3: 229.4
+nrgUN: 2.48
+nrgIL1: 0
+nrgIL2: 0
+nrgIL3: 0
+nrgPL1: 0
+nrgPL2: 0
+nrgPL3: 0
+nrgPN: 0
+nrgPTotal: 0
+nrgPfL1: 0
+nrgPfL2: 0
+nrgPfL3: 0
+nrgPfN: 0
+modelStatus: 15
+lmsc: 3118729449
+mca: 6
+fst: 1400
+acp: 1
+tlf:
+tls:
+atp:
+pnp: 0
+pwm: 0
+psm: 1 -> Phasen 1 = 1, 2 = 3
+cus: 1
+ffb: 0
+loa:
+lotAmp: 32
+lotTs: 0
+
+
+
+
+
+success: 1
+exception: Query success!
+resultInverterSN: H34B12H8129065
+resultSn: SW5QA9JKJR
+resultAcpower: 366
+resultYieldtoday: 24.2
+resultYieldtotal: 10634.5
+resultFeedinpower: -23
+resultFeedinenergy: 7574.97
+resultConsumeenergy: 4072.03
+resultFeedinpowerM2: 0
+resultSoc: 54
+resultPeps1: 0
+resultPeps2: 0
+resultPeps3: 0
+resultInverterType: 14
+resultInverterStatus: 102
+resultUploadTime: 2023-02-22 22:50:27
+resultBatPower: -252
+resultPowerdc1: 0
+resultPowerdc2: 0
+resultPowerdc3:
+resultPowerdc4:
+resultBatStatus: 0

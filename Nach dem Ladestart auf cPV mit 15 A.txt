@@ -1,0 +1,1239 @@
+{
+  "stao": null,
+  "alw": true,
+  "acu": 15,
+  "acui": 15,
+  "adi": false,
+  "acl": 16,
+  "dwo": null,
+  "tpa": 10085.77,
+  "sse": "202259",
+  "eto": 1905674,
+  "etop": 1905587,
+  "wifis": [
+    {
+      "ssid": "Praxis fuer Nuklearmedizin",
+      "key": true,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    },
+    {
+      "ssid": "",
+      "key": false,
+      "useStaticIp": false,
+      "staticIp": "0.0.0.0",
+      "staticSubnet": "0.0.0.0",
+      "staticGateway": "0.0.0.0",
+      "useStaticDns": false,
+      "staticDns0": "0.0.0.0",
+      "staticDns1": "0.0.0.0",
+      "staticDns2": "0.0.0.0"
+    }
+  ],
+  "scas": 2,
+  "scan": [
+    {
+      "ssid": "Praxis fuer Nuklearmedizin",
+      "encryptionType": 3,
+      "rssi": -52,
+      "channel": 11,
+      "bssid": "B0:95:75:C7:E5:2C",
+      "f": [
+        4,
+        4,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        ""
+      ]
+    },
+    {
+      "ssid": "Praxis fuer Orthopaedie",
+      "encryptionType": 0,
+      "rssi": -60,
+      "channel": 8,
+      "bssid": "B0:4E:26:C8:FA:31",
+      "f": [
+        0,
+        0,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        ""
+      ]
+    },
+    {
+      "ssid": "Praxis fuer Zahnmedizin",
+      "encryptionType": 3,
+      "rssi": -76,
+      "channel": 11,
+      "bssid": "AC:84:C6:D9:57:3F",
+      "f": [
+        5,
+        3,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        ""
+      ]
+    },
+    {
+      "ssid": "Vodafone-FED1",
+      "encryptionType": 3,
+      "rssi": -77,
+      "channel": 1,
+      "bssid": "D4:AB:82:31:75:7D",
+      "f": [
+        4,
+        4,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        "EU"
+      ]
+    },
+    {
+      "ssid": "Fernseher Wohnzimmer.m,",
+      "encryptionType": 0,
+      "rssi": -78,
+      "channel": 6,
+      "bssid": "FA:8F:CA:5D:3E:D6",
+      "f": [
+        0,
+        0,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        ""
+      ]
+    },
+    {
+      "ssid": "Vodafone Homespot",
+      "encryptionType": 0,
+      "rssi": -80,
+      "channel": 1,
+      "bssid": "D6:AB:82:31:75:3D",
+      "f": [
+        0,
+        0,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        "EU"
+      ]
+    },
+    {
+      "ssid": "AndroidAP",
+      "encryptionType": 3,
+      "rssi": -81,
+      "channel": 11,
+      "bssid": "0A:C9:DE:AE:EE:42",
+      "f": [
+        4,
+        4,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        "DE"
+      ]
+    },
+    {
+      "ssid": "Büro.ynm,",
+      "encryptionType": 0,
+      "rssi": -83,
+      "channel": 6,
+      "bssid": "FA:8F:CA:7E:5C:2B",
+      "f": [
+        0,
+        0,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        ""
+      ]
+    },
+    {
+      "ssid": "Vodafone Hotspot",
+      "encryptionType": 0,
+      "rssi": -83,
+      "channel": 1,
+      "bssid": "0A:7E:64:B7:9F:74",
+      "f": [
+        0,
+        0,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        "DE"
+      ]
+    },
+    {
+      "ssid": "Praxis fuer Allgemeinmedizin",
+      "encryptionType": 3,
+      "rssi": -84,
+      "channel": 1,
+      "bssid": "08:7E:64:B7:9F:70",
+      "f": [
+        4,
+        4,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        "DE"
+      ]
+    },
+    {
+      "ssid": "Vodafone Homespot",
+      "encryptionType": 0,
+      "rssi": -84,
+      "channel": 1,
+      "bssid": "0A:7E:64:B7:9F:72",
+      "f": [
+        0,
+        0,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        "DE"
+      ]
+    },
+    {
+      "ssid": "Vodafone Hotspot",
+      "encryptionType": 0,
+      "rssi": -85,
+      "channel": 1,
+      "bssid": "D6:AB:82:31:75:1D",
+      "f": [
+        0,
+        0,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        "EU"
+      ]
+    },
+    {
+      "ssid": "ZubiGast",
+      "encryptionType": 7,
+      "rssi": -85,
+      "channel": 1,
+      "bssid": "CE:CE:1E:87:78:2C",
+      "f": []
+    }
+  ],
+  "lwf": 609264812,
+  "scaa": 609170663,
+  "wst": 3,
+  "wsc": 0,
+  "wsm": "609163483550 WIFI_STA_DISCONNECTED ssid=\"Praxis fuer Nuklearmedizin\" bssid=B0:95:75:C7:E5:2C reason=200(BEACON_TIMEOUT)\n609264811738 WIFI_STA_DISCONNECTED ssid=\"Praxis fuer Nuklearmedizin\" bssid=B0:95:75:C7:E5:2C reason=6(NOT_AUTHED)\n",
+  "wsms": 3,
+  "ccw": {
+    "ssid": "Praxis fuer Nuklearmedizin",
+    "encryptionType": 3,
+    "pairwiseCipher": 4,
+    "groupCipher": 4,
+    "b": true,
+    "g": true,
+    "n": true,
+    "lr": false,
+    "wps": false,
+    "ftmResponder": false,
+    "ftmInitiator": false,
+    "channel": 11,
+    "bssid": "B0:95:75:C7:E5:2C",
+    "ip": "192.168.0.56",
+    "netmask": "255.255.255.0",
+    "gw": "192.168.0.1",
+    "ipv6": [
+      "FE80::EA31:CDFF:FE65:D610",
+      "2A02:810B:1EA0:158:EA31:CDFF:FE65:D610"
+    ],
+    "dns0": "192.168.0.1",
+    "dns1": "0.0.0.0",
+    "dns2": "0.0.0.0"
+  },
+  "wfb": null,
+  "wcb": "B0:95:75:C7:E5:2C",
+  "wpb": null,
+  "nif": "st",
+  "dns": {
+    "dns": "0.0.0.0"
+  },
+  "hsts": "go-echarger_202259",
+  "hsta": "go-echarger_202259",
+  "host": "go-echarger_202259",
+  "rssi": -60,
+  "lssfc": 609264812,
+  "lsstc": 609266582,
+  "ehs": 288576,
+  "efh": 131380,
+  "efh32": 131380,
+  "efh8": 97276,
+  "fem": 1,
+  "sbe": true,
+  "emfh": 101752,
+  "emhb": 86004,
+  "eci": {
+    "model": 1,
+    "features": 50,
+    "cores": 2,
+    "revision": 300
+  },
+  "ecf": {
+    "source": 1,
+    "source_freq_mhz": 320,
+    "div": 2,
+    "freq_mhz": 160
+  },
+  "efi": {
+    "segment_count": 3,
+    "spi_mode": 2,
+    "spi_speed": 0,
+    "spi_size": 3
+  },
+  "abm": "E8:31:CD:65:D6:10",
+  "dbm": "E8:31:CD:65:D6:10",
+  "cbm": null,
+  "obm": null,
+  "macs": "E8:31:CD:65:D6:10",
+  "maca": "E8:31:CD:65:D6:11",
+  "esr": [
+    12,
+    12
+  ],
+  "rr": 3,
+  "wae": true,
+  "fwan": "go-e-202259",
+  "wan": "go-e-202259",
+  "facwak": true,
+  "wak": true,
+  "wda": false,
+  "wen": true,
+  "wsmr": -90,
+  "wapc": 1,
+  "waap": 4,
+  "swc": false,
+  "tse": false,
+  "ts": "europe.pool.ntp.org",
+  "tssm": 0,
+  "tssi": 3600000,
+  "tsss": 0,
+  "tsom": 0,
+  "tof": 60,
+  "tds": 1,
+  "utc": "2023-02-25T10:15:56.191",
+  "loc": "2023-02-25T11:15:56.192 +01:00",
+  "led": {
+    "id": 2,
+    "name": "Charging",
+    "norwayOverlay": true,
+    "modeOverlay": true,
+    "subtype": "schweif",
+    "count": 3,
+    "speed": 20
+  },
+  "ledo": null,
+  "lbr": 255,
+  "lmo": 3,
+  "ama": 16,
+  "la1": 6,
+  "la3": 16,
+  "clp": [
+    6,
+    10,
+    12,
+    14,
+    16
+  ],
+  "al1": 6,
+  "al2": 10,
+  "al3": 12,
+  "al4": 14,
+  "al5": 16,
+  "bac": 1,
+  "sdp": 2,
+  "lbp": 1448804707,
+  "amp": 15,
+  "ffna": "go-eCharger_202259",
+  "fna": "go-eCharger_202259",
+  "isgo": true,
+  "simo": true,
+  "aus": false,
+  "cy": "un",
+  "mukw": null,
+  "cid": "#0000FF",
+  "cwc": "#FFFF00",
+  "cch": "#00FFFF",
+  "cfi": "#00FF00",
+  "ust": 0,
+  "lck": 0,
+  "sch_week": {
+    "control": 0,
+    "ranges": [
+      {
+        "begin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end": {
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "begin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end": {
+          "hour": 0,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  "sch_satur": {
+    "control": 0,
+    "ranges": [
+      {
+        "begin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end": {
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "begin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end": {
+          "hour": 0,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  "sch_sund": {
+    "control": 0,
+    "ranges": [
+      {
+        "begin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end": {
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "begin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end": {
+          "hour": 0,
+          "minute": 0
+        }
+      }
+    ]
+  },
+  "nmo": false,
+  "dco": true,
+  "fsp": false,
+  "frci": true,
+  "rsd": 0,
+  "rfd": 8448940,
+  "acs": 0,
+  "frc": 2,
+  "rbc": 18,
+  "rbt": 3338061623,
+  "car": 2,
+  "err": 0,
+  "cbl": 32,
+  "pha": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "wh": 268.5607,
+  "trx": null,
+  "fwv": "055.0",
+  "arv": "1.2.1",
+  "ccu": null,
+  "oem": "go-e",
+  "typ": "go-eCharger_V4",
+  "fwc": "0.0.1-47",
+  "ccrv": "0.0.1-47",
+  "apd": {
+    "project_name": "goecharger_hw3+",
+    "version": "055.0",
+    "secure_version": 0,
+    "timestamp": "Dec 20 2022 17:04:08",
+    "idf_ver": "v5.1-dev-2290-g7634cbdf3",
+    "sha256": "6fdb22795d556e5b"
+  },
+  "otap": {
+    "type": 0,
+    "subtype": 16,
+    "address": 1703936,
+    "size": 3145728,
+    "label": "app_0",
+    "encrypted": true
+  },
+  "part": [
+    {
+      "type": 1,
+      "subtype": 2,
+      "address": 65536,
+      "size": 262144,
+      "label": "nvs",
+      "encrypted": false
+    },
+    {
+      "type": 1,
+      "subtype": 2,
+      "address": 327680,
+      "size": 262144,
+      "label": "nvsFac",
+      "encrypted": false
+    },
+    {
+      "type": 1,
+      "subtype": 1,
+      "address": 589824,
+      "size": 4096,
+      "label": "phy_init",
+      "encrypted": false
+    },
+    {
+      "type": 1,
+      "subtype": 0,
+      "address": 593920,
+      "size": 8192,
+      "label": "otadata",
+      "encrypted": true
+    },
+    {
+      "type": 0,
+      "subtype": 16,
+      "address": 1703936,
+      "size": 3145728,
+      "label": "app_0",
+      "encrypted": true
+    },
+    {
+      "type": 0,
+      "subtype": 17,
+      "address": 4849664,
+      "size": 3145728,
+      "label": "app_1",
+      "encrypted": true
+    },
+    {
+      "type": 1,
+      "subtype": 4,
+      "address": 7995392,
+      "size": 4096,
+      "label": "nvs_key",
+      "encrypted": true
+    },
+    {
+      "type": 1,
+      "subtype": 3,
+      "address": 7999488,
+      "size": 65536,
+      "label": "coredump",
+      "encrypted": true
+    },
+    {
+      "type": 64,
+      "subtype": 1,
+      "address": 8065024,
+      "size": 65536,
+      "label": "keys",
+      "encrypted": true
+    },
+    {
+      "type": 1,
+      "subtype": 130,
+      "address": 8130560,
+      "size": 258048,
+      "label": "spiffs",
+      "encrypted": false
+    }
+  ],
+  "pto": 61440,
+  "lse": false,
+  "cdi": {
+    "type": 0,
+    "value": 3337728395
+  },
+  "lch": 3172463857,
+  "lccfi": 3172463857,
+  "lccfc": 3337137710,
+  "lcctc": 3337973685,
+  "tma": [
+    20,
+    15.5
+  ],
+  "amt": 32,
+  "nrg": [
+    218.55,
+    229.71,
+    222.27,
+    2.48,
+    15.01,
+    15.2,
+    15.124,
+    3274.53,
+    3483.002,
+    3355.112,
+    0,
+    10112.64,
+    99.81999,
+    99.75398,
+    99.80667,
+    100
+  ],
+  "modelStatus": 3,
+  "msi": 3,
+  "lmsc": 3337969767,
+  "mca": 6,
+  "awc": 1,
+  "awp": 3,
+  "awcp": {
+    "start": 1677319200,
+    "end": 1677322800,
+    "marketprice": 6.517
+  },
+  "awpl": [
+    {
+      "start": 1677319200,
+      "end": 1677322800,
+      "marketprice": 6.517
+    },
+    {
+      "start": 1677322800,
+      "end": 1677326400,
+      "marketprice": 5.943
+    },
+    {
+      "start": 1677326400,
+      "end": 1677330000,
+      "marketprice": 4.49
+    },
+    {
+      "start": 1677330000,
+      "end": 1677333600,
+      "marketprice": 6.268
+    },
+    {
+      "start": 1677333600,
+      "end": 1677337200,
+      "marketprice": 8.184999
+    },
+    {
+      "start": 1677337200,
+      "end": 1677340800,
+      "marketprice": 9.654
+    },
+    {
+      "start": 1677340800,
+      "end": 1677344400,
+      "marketprice": 12.34
+    },
+    {
+      "start": 1677344400,
+      "end": 1677348000,
+      "marketprice": 13.648
+    },
+    {
+      "start": 1677348000,
+      "end": 1677351600,
+      "marketprice": 13.085
+    },
+    {
+      "start": 1677351600,
+      "end": 1677355200,
+      "marketprice": 11.664
+    },
+    {
+      "start": 1677355200,
+      "end": 1677358800,
+      "marketprice": 10.227
+    },
+    {
+      "start": 1677358800,
+      "end": 1677362400,
+      "marketprice": 11.493
+    },
+    {
+      "start": 1677362400,
+      "end": 1677366000,
+      "marketprice": 10.743
+    }
+  ],
+  "ido": null,
+  "frm": 1,
+  "fup": true,
+  "awe": false,
+  "fst": 1400,
+  "fmt": 300000,
+  "att": 25200,
+  "ate": 18000,
+  "ara": true,
+  "acp": true,
+  "cco": 18,
+  "esk": false,
+  "fzf": false,
+  "sh": 200,
+  "psh": 500,
+  "po": -300,
+  "zfo": 200,
+  "psmd": 10000,
+  "sumd": 5000,
+  "mpwst": 120000,
+  "mptwt": 600000,
+  "ferm": 1,
+  "mmp": 0,
+  "tlf": false,
+  "tls": null,
+  "atp": null,
+  "lpsc": null,
+  "inva": null,
+  "pgrid": null,
+  "ppv": null,
+  "pakku": null,
+  "deltap": 0,
+  "pnp": 0,
+  "deltaa": 0,
+  "pvopt_averagePGrid": 0,
+  "pvopt_averagePPv": 0,
+  "pvopt_averagePAkku": 0,
+  "ct": "",
+  "mci": 0,
+  "mcpd": 0,
+  "mcpea": null,
+  "su": false,
+  "sua": false,
+  "hws": true,
+  "hsa": true,
+  "var": 11,
+  "loe": false,
+  "log": "",
+  "lop": 50,
+  "lof": 0,
+  "map": [
+    1,
+    2,
+    3
+  ],
+  "upo": false,
+  "pwm": 0,
+  "lfspt": 3337114099,
+  "fsptws": null,
+  "spl3": 4200,
+  "psm": 2,
+  "ocu": [
+    "055.0",
+    "055.4 BETA",
+    "055.5 BETA",
+    "V 054.0 OUTDATED",
+    "V 054.11 OUTDATED",
+    "V 054.2 OUTDATED",
+    "V 054.3 OUTDATED",
+    "V 054.6 OUTDATED",
+    "V 054.7 OUTDATED"
+  ],
+  "ocuca": true,
+  "ocs": 0,
+  "ocp": 0,
+  "ocm": "",
+  "ocl": null,
+  "oca": null,
+  "opad": {
+    "project_name": "goecharger_hw3+",
+    "version": "054.11",
+    "secure_version": 0,
+    "timestamp": "Dec 15 2022 18:00:43",
+    "idf_ver": "v5.1-dev-2290-g7634cbdf3",
+    "sha256": "769f8af1ddb6de94"
+  },
+  "cwe": true,
+  "cca": true,
+  "cws": true,
+  "cwsc": true,
+  "cwsca": 3267907208,
+  "chr": true,
+  "clea": 3329106500,
+  "cle": "esp_transport_connect() failed with -1, last_error=ESP_ERR_ESP_TLS_CONNECTION_TIMEOUT, tls_error_code=0, tls_flags=0, errno=11",
+  "cpe": true,
+  "cpr": true,
+  "cus": 3,
+  "ffb": 0,
+  "ffba": null,
+  "fhz": 49.928,
+  "rcd": null,
+  "onv": "055.0",
+  "lom": null,
+  "loa": null,
+  "los": null,
+  "lot": {
+    "amp": 32,
+    "ts": 0
+  },
+  "loty": false,
+  "token1": "L5Gg7dSNdNT1YAYYJJYJy7t8D0a6X5Le",
+  "token_hash": "85e71637c5f355a3b85b7fc9a705dbfdfb9a7e44b0f3ec0b7da4f22c60b2efc3",
+  "wcch": 0,
+  "wccw": 0,
+  "qsc": 0,
+  "qsw": 0,
+  "cards": [
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": true
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    },
+    {
+      "name": "n/a",
+      "energy": 0,
+      "cardId": false
+    }
+  ],
+  "lps": 79,
+  "tpck": [
+    "chargectrl_v4",
+    "led",
+    "wifi",
+    "webserver",
+    "mdns",
+    "time",
+    "cloud",
+    "rfid",
+    "status",
+    "button",
+    "delta_http",
+    "delta_cloud",
+    "delta_mqtt",
+    "ota_cloud",
+    "cmdhandler",
+    "loadbalancing",
+    "modbus_slave",
+    "mqtt",
+    "ocpp",
+    "controllercomm",
+    "remotehttp",
+    "remotemdns",
+    "remoteping",
+    "cloud_send",
+    "mqtt_send"
+  ],
+  "tpcm": [
+    24,
+    4,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7,
+    0,
+    0,
+    74,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    8,
+    0
+  ],
+  "nvs": {
+    "used_entries": 118,
+    "free_entries": 7946,
+    "total_entries": 8064,
+    "namespace_count": 2,
+    "nvs_handle_user": 50
+  },
+  "csca": 2,
+  "occa": 2,
+  "mqca": 2,
+  "rrca": 2,
+  "men": false,
+  "msp": 502,
+  "msb": false,
+  "msr": true,
+  "mro": 0,
+  "mwo": 0,
+  "cup": 1,
+  "data": "{\"i\":120,\"url\":\"https://data.v3.go-e.io/data_ng?e=w1TL3IG_hnIxR5-ls4FFDRhrS3gZY2cYJB2mkk3DLlyEo5hkAoLIJtOV_a4xK93u75_wsQX65VNzgHVihT6ndVFsBaSZ94Q\"}",
+  "dll": "https://data.v3.go-e.io/export?e=G8rWEGqac_c3an5KrMFDWbyLuHz0cpPOYwMWNU7oU1ABW0XTpMcG5Ku2U9KS1v4BjHhaBsE1MqjL",
+  "fck": true,
+  "fcc": true,
+  "asc": true,
+  "fhi": true,
+  "hasl": 0,
+  "hafl": 0,
+  "hlasl": 0,
+  "hlafl": 0,
+  "hai": true,
+  "hatv": false,
+  "hla": false,
+  "cdv": null,
+  "mscs": 8,
+  "msca": 0,
+  "mce": false,
+  "mcu": "mqtt://username:password@mqtt-broker:1883",
+  "mcr": false,
+  "mtp": "go-eCharger/202259/",
+  "mqg": true,
+  "mqcn": false,
+  "mqss": false,
+  "mck": false,
+  "mqcc": false,
+  "msc": false,
+  "mcs": false,
+  "mcc": false,
+  "mcca": null,
+  "mlr": null,
+  "mlra": null,
+  "mcsl": 0,
+  "mcfl": 0,
+  "ocppe": true,
+  "ocppu": "",
+  "ocppg": true,
+  "ocppcn": false,
+  "ocppss": false,
+  "ocpps": false,
+  "ocppc": false,
+  "ocppca": null,
+  "ocppa": false,
+  "ocppaa": null,
+  "ocppti": null,
+  "ocpph": 3600,
+  "ocppi": 0,
+  "ocppai": 0,
+  "ocppd": "no-card",
+  "ocppr": false,
+  "ocpplea": null,
+  "ocpple": null,
+  "ocpprl": false,
+  "ocppck": false,
+  "ocppcc": false,
+  "ocppsc": false,
+  "rfide": true,
+  "rfe": null,
+  "rde": false,
+  "lri": null,
+  "lrc": null,
+  "lrr": null,
+  "rtp": 0,
+  "rrv": 8,
+  "sau": false,
+  "loi": false,
+  "gme": false,
+  "gmk": "",
+  "cae": true,
+  "pnt": "XsuDCMgWK79Y2we6sVqfiRd6AiYUbZOy",
+  "ens": "",
+  "aup": 6,
+  "tou": 0,
+  "ipw": "",
+  "cc4": {
+    "firmware_installed": true,
+    "installed_firmware_valid": true,
+    "hwid": "v4.6-rts-gd32",
+    "firmware_version": "0.0.1-47"
+  },
+  "cc4st": 6,
+  "cc4cs": 2,
+  "cc4sp": 15000,
+  "cc4tl": 32000,
+  "cc4ls": 32000,
+  "cc4lt": 32000,
+  "cc4vm": -11885,
+  "cc4vx": 5850,
+  "cc4pp": 219,
+  "cc4dc": 250,
+  "cc4ss": 16500,
+  "cc4ca": true,
+  "cc4sf": false,
+  "cc4cd": false,
+  "cc4i1": false,
+  "cc4nl": false,
+  "cc4ld": false,
+  "cc4lc": false,
+  "cc4fu": false,
+  "cc4sv": true,
+  "cc4tv": true,
+  "cc4vr": false,
+  "cc42l": true,
+  "cc4tt": false,
+  "cc4tm": false,
+  "cc4rf": false,
+  "cc4rv": [
+    2480,
+    218550,
+    229710,
+    222270
+  ],
+  "cc4rc": [
+    0,
+    15010,
+    15200,
+    15124
+  ],
+  "cc4rp": [
+    0,
+    3274530,
+    3483002,
+    3355112
+  ],
+  "cc4ap": [
+    0,
+    3280435,
+    3491592,
+    3361611
+  ],
+  "cc4fm": [
+    41790,
+    49927,
+    49928,
+    49928
+  ],
+  "cc4pm": [
+    0,
+    0,
+    186632,
+    18638
+  ],
+  "cc4re": [
+    0,
+    29030045,
+    26173919,
+    25912337
+  ],
+  "cc4ae": [
+    0,
+    29219714,
+    26432713,
+    26174666
+  ],
+  "cc4is": 4,
+  "cmse": false,
+  "cmmr": 20,
+  "cms": "_go-e_controller",
+  "cmp": "_tcp",
+  "lcs": 0,
+  "csa": false,
+  "ctrls": null,
+  "ccd": null,
+  "CN": "202259.iot.v3.go-e.io",
+  "secured": true
+}

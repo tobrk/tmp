@@ -1,0 +1,82 @@
+alw:
+acu:
+adi:
+dwo:
+sse: 202259
+ccwSsid: Praxis fuer Nuklearmedizin
+rssi: -61
+ama: 16
+amp: 16
+fna: go-eCharger_202259
+frc:
+car: 4
+err: 0
+cbl: 32
+cdiType: 1
+cdiValue: 461964
+lccfi: 2288
+lccfc: 1688810
+lcctc: 1513280
+tma0: 21.5
+tma1: 16
+nrgUL1: 224.44
+nrgUL2: 228.78
+nrgUL3: 227.23
+nrgUN: 2.48
+nrgIL1: 0
+nrgIL2: 0
+nrgIL3: 0
+nrgPL1: 0
+nrgPL2: 0
+nrgPL3: 0
+nrgPN: 0
+nrgPTotal: 0
+nrgPfL1: 0
+nrgPfL2: 0
+nrgPfL3: 0
+nrgPfN: 0
+modelStatus: 4
+lmsc: 1715613
+mca: 6
+fst: 1400
+acp: 1
+tlf:
+tls:
+atp:
+pnp: 0
+pwm: 0
+psm: 2
+cus: 3
+ffb: 0
+loa:
+lotAmp: 32
+lotTs: 0
+
+
+
+
+
+success: 1
+exception: Query success!
+resultInverterSN: H34B12H8129065
+resultSn: SW5QA9JKJR
+resultAcpower: 1654
+resultYieldtoday: 18.3
+resultYieldtotal: 10676.5
+resultFeedinpower: 1252
+resultFeedinenergy: 7584.64
+resultConsumeenergy: 4107.79
+resultFeedinpowerM2: 0
+resultSoc: 98
+resultPeps1: 0
+resultPeps2: 0
+resultPeps3: 0
+resultInverterType: 14
+resultInverterStatus: 102
+resultUploadTime: 2023-02-25 17:14:47
+resultBatPower: 1784
+resultPowerdc1: 1719
+resultPowerdc2: 1736
+resultPowerdc3:
+resultPowerdc4:
+resultBatStatus: 0
